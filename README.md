@@ -14,4 +14,6 @@
 - C#
 - .NET 10
 - Windows Forms
+
+
 ![Hesap Makinesi Görünümü](ekran_goruntusu.png)
