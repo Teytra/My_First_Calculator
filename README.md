@@ -15,7 +15,9 @@
 - .NET 10
 - Windows Forms
 
+## Calculator View
 
 
-.
+
+
 ![Hesap Makinesi Görünümü](ekran_goruntusu.png)
