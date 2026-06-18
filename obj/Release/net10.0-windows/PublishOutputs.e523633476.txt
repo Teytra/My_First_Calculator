@@ -1,5 +1,0 @@
-C:\Users\teytr\Desktop\HesapMakinesi.exe
-C:\Users\teytr\Desktop\HesapMakinesi.dll
-C:\Users\teytr\Desktop\HesapMakinesi.deps.json
-C:\Users\teytr\Desktop\HesapMakinesi.runtimeconfig.json
-C:\Users\teytr\Desktop\HesapMakinesi.pdb
